@@ -68,8 +68,8 @@ struct malloced_arr_wsize multiplication_matrix(struct malloced_arr_wsize *const
 	}
 	else{
 		printf("this matrix cannot be multiplicated");
-		struct malloced_arr_wsize NAS ={};
-		return NAS;
+		struct malloced_arr_wsize NA ={};
+		return NA;
 
 	}
 
